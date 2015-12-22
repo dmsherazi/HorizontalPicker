@@ -20,11 +20,11 @@
     <declare-styleable name="HorizontalPicker">
         <attr name="android:textColor" />
         <attr name="android:textSize" />
-        <attr name="values" format="reference" />
+        <attr name="hp_values" format="reference" />
         <attr name="android:ellipsize" />
         <attr name="android:marqueeRepeatLimit" />
-        <attr name="dividerSize" format="dimension" />
-        <attr name="sideItems" format="integer" />
+        <attr name="hp_dividerSize" format="dimension" />
+        <attr name="hp_sideItems" format="integer" />
     </declare-styleable>
 
     <attr name="horizontalPickerStyle" format="reference" />
